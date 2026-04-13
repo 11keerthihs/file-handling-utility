@@ -1,0 +1,5 @@
+{
+  "name": "File Handling Utility",
+  "description": "A comprehensive Java-based utility for file operations including create, read, update, and delete, with a web-based demonstration.",
+  "requestFramePermissions": []
+}
